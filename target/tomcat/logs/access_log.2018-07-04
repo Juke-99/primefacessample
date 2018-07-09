@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [04/Jul/2018:20:29:31 +0900] "GET /facesample/ HTTP/1.1" 200 1147 http-bio-9090-exec-1 292
+0:0:0:0:0:0:0:1 - - [04/Jul/2018:20:29:31 +0900] "GET /facesample/javax.faces.resource/app.css.xhtml?ln=style HTTP/1.1" 404 - http-bio-9090-exec-2 3
+0:0:0:0:0:0:0:1 - - [04/Jul/2018:20:29:40 +0900] "GET /facesample/chart.html HTTP/1.1" 404 993 http-bio-9090-exec-4 2
+0:0:0:0:0:0:0:1 - - [04/Jul/2018:20:29:46 +0900] "GET /facesample/chart.xhtml HTTP/1.1" 404 1059 http-bio-9090-exec-5 3
+0:0:0:0:0:0:0:1 - - [04/Jul/2018:20:30:00 +0900] "GET /facesample/chart.html HTTP/1.1" 404 993 http-bio-9090-exec-3 1
+0:0:0:0:0:0:0:1 - - [04/Jul/2018:20:30:01 +0900] "GET /facesample/charts.html HTTP/1.1" 200 157 http-bio-9090-exec-6 3
+0:0:0:0:0:0:0:1 - - [04/Jul/2018:20:30:22 +0900] "GET /facesample/charts.xhtml HTTP/1.1" 500 3924 http-bio-9090-exec-8 21
+0:0:0:0:0:0:0:1 - - [04/Jul/2018:20:31:04 +0900] "GET /facesample/charts.xhtml HTTP/1.1" 200 1331 http-bio-9090-exec-9 39
